@@ -1,7 +1,0 @@
-<html>
-<title>My Assignment
-</title>
-<head></head>
-<body>This is my first assignment as an MGQS student
-</body>
-</html>
